@@ -124,7 +124,7 @@ body.loaded .preloader {
     animation-delay: 12s;
 }
 
-.callout {
+callout {
   margin: 32px 0;
   padding: 16px;
   border-left: 6px solid #2563eb;
