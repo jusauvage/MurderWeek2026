@@ -123,3 +123,11 @@ body.loaded .preloader {
 .fade:nth-child(13) {
     animation-delay: 12s;
 }
+
+.callout {
+  margin: 32px 0;
+  padding: 16px;
+  border-left: 6px solid #2563eb;
+  background: #eff6ff;
+}
+
